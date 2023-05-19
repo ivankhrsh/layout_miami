@@ -1,4 +1,5 @@
 .about {
+  overflow: hidden;
   &__content {
 
     @include onTablet {
